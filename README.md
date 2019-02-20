@@ -1,2 +1,2 @@
 # Hadoop-Hbase
-Java to Hbase integration
+Hbase Operations using Java API
